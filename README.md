@@ -3,6 +3,9 @@
 ## Project Overview  
 This project explores the high cancellation rates at City Hotel and Resort Hotel. By identifying the factors causing cancellations, we aim to provide solutions that can help improve revenue and optimize hotel operations. Through detailed data analysis, we examine elements such as pricing strategies, customer booking behaviors, and seasonal patterns.
 
+![image](https://github.com/user-attachments/assets/10a34cc1-cd3a-44fa-a71a-074de50e647c)
+
+
 ## Key Objectives  
 - Understand the key factors influencing hotel reservation cancellations.
 - Offer strategies to reduce cancellations and boost hotel revenue.
@@ -23,6 +26,9 @@ This project explores the high cancellation rates at City Hotel and Resort Hotel
 - **Higher prices lead to more cancellations.** Customers are more likely to cancel when room rates are higher.  
 - **Longer waiting lists result in more cancellations.** Waiting for confirmation might increase cancellation rates.  
 - **Most customers use offline travel agents.** Offline travel agents may be the primary booking source, rather than online platforms.
+
+  ![image](https://github.com/user-attachments/assets/585758c9-1c2d-421b-bfca-d3bfcab3b833)
+
 
 ## Analysis & Findings  
 
