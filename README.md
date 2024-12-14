@@ -3,7 +3,8 @@
 ## Project Overview  
 This project explores the high cancellation rates at City Hotel and Resort Hotel. By identifying the factors causing cancellations, we aim to provide solutions that can help improve revenue and optimize hotel operations. Through detailed data analysis, we examine elements such as pricing strategies, customer booking behaviors, and seasonal patterns.
 
-![image](https://github.com/user-attachments/assets/10a34cc1-cd3a-44fa-a71a-074de50e647c)
+![image](https://github.com/user-attachments/assets/7a0138c0-2495-4f78-ac66-76940a919f17)
+
 
 
 ## Key Objectives  
